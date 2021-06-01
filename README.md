@@ -1,5 +1,9 @@
 # community
 
+## 项目介绍
+
+本项目根据牛客网推出的项目实战课程https://www.nowcoder.com/courses/semester/senior所实现
+
 ## 项目运行方式
 
 1. 安装redis并启动
